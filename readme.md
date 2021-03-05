@@ -10,6 +10,10 @@
         <p> Me considero un autodidacta. Mis tecnologías preferidas posgresql, Python y sus hermosas librerías que componen la suite de trabajo para generar conocimiento de los datos. </p>    
     </div>
 </div>
+
+<br>
+</br>
+
  ## :raised_hands: Poyectos
  >> :green_book: Extraer datos de Facturas XML con python
  >> :mag: Análisis de texto (obtener texto de blog) con NLTK
