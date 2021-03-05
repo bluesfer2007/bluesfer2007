@@ -11,9 +11,6 @@
     </div>
 </div>
 
-<br>
-</br>
-
  ## :raised_hands: Poyectos
  * :green_book: Extraer datos de Facturas XML con python
  * :mag: Análisis de texto (scraper de texto de blog) con NLTK
