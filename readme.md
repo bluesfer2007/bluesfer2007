@@ -15,6 +15,6 @@
 </br>
 
  ## :raised_hands: Poyectos
- >> :green_book: Extraer datos de Facturas XML con python
- >> :mag: Análisis de texto (obtener texto de blog) con NLTK
- >> :bar_chart: Curso Inicial de Excel para análisis de datos
+ * :green_book: Extraer datos de Facturas XML con python
+ * :mag: Análisis de texto (scraper de texto de blog) con NLTK
+ * :bar_chart: Curso Inicial de Excel para análisis de datos
