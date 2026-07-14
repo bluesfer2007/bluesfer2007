@@ -44,15 +44,6 @@ y enseño a hacerlo en español.
 | [dash_reportes](https://github.com/bluesfer2007/dash_reportes) | Reportes interactivos con Dash/Plotly (serie de YouTube) |
 | [Excel_InicialDatos](https://github.com/bluesfer2007/Excel_InicialDatos) | Curso inicial de Excel para análisis de datos |
 
-## 📈 GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bluesfer2007&show_icons=true&theme=default&hide_border=true&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluesfer2007&layout=compact&hide_border=true&locale=es)
-
-</div>
-
 ---
 
 <div align="center">
